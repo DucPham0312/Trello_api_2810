@@ -1,4 +1,4 @@
-# Trello-api: Dự án thiết kế back-end cho hệ thống học tập và làm việc
+# Trello-api: Dự án thiết kế back-end trang Trello quản lí học tập và công việc
 ***
 ## Mô tả dự án
 > Dự án thiết kế cho môi trường học tập và có thể tạo một không gian làm việc nhóm. Cung cấp các tính năng sau:
